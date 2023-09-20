@@ -9,7 +9,7 @@ To run this project, you need:
 - Python 3  
 - Dataloop API credentials
   
-  ## Account credintials for demo purposes
+## Account credintials for demo purposes
 
  - email : akhtaraj303@gmail.com
 - passwor d : Cv12345$ 
