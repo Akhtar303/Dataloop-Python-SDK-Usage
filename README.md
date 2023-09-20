@@ -12,11 +12,11 @@ To run this project, you need:
 - Account credintials for demo purposes
 
  - email : akhtaraj303@gmail.com
-passwor d : Cv12345$ 
+- passwor d : Cv12345$ 
 
 - Install requirements:
 
-```bash
 pip install -r requirements.txt
+
 - Run demo
-python dataloop-usage.py
+   python dataloop-usage.py
