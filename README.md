@@ -9,14 +9,14 @@ To run this project, you need:
 - Python 3  
 - Dataloop API credentials
   
-## Account credintials for demo purposes
+## Account Credintials For Demo Purposes
 
  - email : akhtaraj303@gmail.com
 - passwor d : Cv12345$ 
 
-## Install requirements:
+## Install Requirements:
 
 pip install -r requirements.txt
 
-## Run demo
+## Run Demo
    python dataloop-usage.py
