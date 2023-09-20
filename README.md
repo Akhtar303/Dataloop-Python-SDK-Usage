@@ -1,4 +1,4 @@
-# Dataloop SDK Demo
+# Dataloop Python SDK Demo
 
 This project shows how to use the Dataloop Python SDK to upload and manage data.
 
